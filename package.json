@@ -1,0 +1,24 @@
+{
+  "name": "forms_and_validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jd-Mitchell/forms_and_validation.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jd-Mitchell/forms_and_validation/issues"
+  },
+  "homepage": "https://github.com/Jd-Mitchell/forms_and_validation#readme",
+  "dependencies": {
+    "ejs": "^7.0.1",
+    "express": "^5.3.0",
+    "express-validator": "^7.3.2"
+  }
+}
